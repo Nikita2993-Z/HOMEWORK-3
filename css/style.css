@@ -44,11 +44,11 @@ button {cursor: pointer;}
     color: #2e2f42;
     
     }
-.header-page {}
+.header-page {border-bottom: 1px solid #e7e9fc}
 .header-page .container{
     justify-content: space-between;
     display: flex;
-    border-bottom: 1px solid #e7e9fc
+    
 }
 .navy-page {
     display: flex;
@@ -119,14 +119,14 @@ display: block;}
     padding: 188px 0px;
     
 }
-.hero .container {padding: 188px 0;
+.hero .container {}
     
-    align-content: center;
+
     
     
     
 
-}
+
 .hero-title {
     font-weight: 700px;
     font-size: 56px;
