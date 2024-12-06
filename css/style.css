@@ -190,12 +190,12 @@ padding: 120px 0;}
     color: #2e2f42;}
 
 .list-sect-two {display: flex;}
-.list-sect-two .item-sect-two-calc {
-    width: calc((100% - 72px) / 4);
-}
+
+
 .item-sect-two {
     gap:24px;
     margin-right: 24px;
+    width: calc((100% - 72px) / 4);
     }
 .item-sect-two:last-child {margin-right: 0;}
 .subject {font-weight: 500;
