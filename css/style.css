@@ -152,9 +152,11 @@ display: block;}
         background-color: #4d5ae5;
         border-radius: 4px;
         margin-bottom: 196px;
-        width: 169px;
-        height: 56px;
+        min-width: 169px;
+        height:56px;
         align-items: center;
+        display: block;
+        border: none;
        
             
     
