@@ -116,7 +116,6 @@ display: block;}
 
 /* #region section-hero */
 .hero {background-color: #2e2f42;
-    margin-bottom: 112px;
     padding: 188px 0px;
     
 }
@@ -136,6 +135,8 @@ display: block;}
    max-width: 496px;
     color: #ffffff;
     margin-bottom: 48px;
+    margin-right: auto;
+    margin-left: auto;
   
     
     
@@ -152,12 +153,13 @@ display: block;}
         color: #ffffff;
         background-color: #4d5ae5;
         border-radius: 4px;
-        margin-bottom: 196px;
         min-width: 169px;
         height:56px;
         align-items: center;
         display: block;
         border: none;
+        margin-right: auto;
+        margin-left: auto;
        
             
     
@@ -187,7 +189,6 @@ padding: 120px 0;}
     font-size: 36px;
     line-height: 1.11111;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;}
 
 .list-sect-two {display: flex;}
@@ -248,7 +249,7 @@ border-radius: 0px 0px 4px 4px;}
     
 }
 
-.subject {font-weight: 500;
+.section-three .subject {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -256,12 +257,12 @@ border-radius: 0px 0px 4px 4px;}
     text-align: center;
     margin-bottom: 8px}
 
-.description {font-weight: 400;
+.section-three .description {font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    text-align: center}
+text-align: center;}
 /* #endregion */
 
 /* #region section-four */
